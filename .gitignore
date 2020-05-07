@@ -1,0 +1,7 @@
+# output
+tmp/
+lambda_function/
+
+# build.sh
+lambda_function.zip
+dist/
